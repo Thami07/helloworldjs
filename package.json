@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "1.1.1",
+  "description": "hello world project",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Thami Nkosi <thamin@wizzit-int.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
